@@ -4,3 +4,9 @@ C:\Projetos_C#\Udemy\C# Curso Completo de Programação Orientada a Objetos\Seç
 C:\Projetos_C#\Udemy\C# Curso Completo de Programação Orientada a Objetos\Seção 04\Projeto-Teste\Projeto-Teste\obj\Debug\Projeto-Teste.csprojResolveAssemblyReference.cache
 C:\Projetos_C#\Udemy\C# Curso Completo de Programação Orientada a Objetos\Seção 04\Projeto-Teste\Projeto-Teste\obj\Debug\Projeto-Teste.exe
 C:\Projetos_C#\Udemy\C# Curso Completo de Programação Orientada a Objetos\Seção 04\Projeto-Teste\Projeto-Teste\obj\Debug\Projeto-Teste.pdb
+C:\Projetos_C#\Udemy\C# Curso Completo de Programação Orientada a Objetos\Seção 04\curso-git\Projeto-Teste\bin\Debug\Projeto-Teste.exe.config
+C:\Projetos_C#\Udemy\C# Curso Completo de Programação Orientada a Objetos\Seção 04\curso-git\Projeto-Teste\obj\Debug\Projeto-Teste.exe
+C:\Projetos_C#\Udemy\C# Curso Completo de Programação Orientada a Objetos\Seção 04\curso-git\Projeto-Teste\obj\Debug\Projeto-Teste.pdb
+C:\Projetos_C#\Udemy\C# Curso Completo de Programação Orientada a Objetos\Seção 04\curso-git\Projeto-Teste\bin\Debug\Projeto-Teste.exe
+C:\Projetos_C#\Udemy\C# Curso Completo de Programação Orientada a Objetos\Seção 04\curso-git\Projeto-Teste\bin\Debug\Projeto-Teste.pdb
+C:\Projetos_C#\Udemy\C# Curso Completo de Programação Orientada a Objetos\Seção 04\curso-git\Projeto-Teste\obj\Debug\Projeto-Teste.csprojResolveAssemblyReference.cache
